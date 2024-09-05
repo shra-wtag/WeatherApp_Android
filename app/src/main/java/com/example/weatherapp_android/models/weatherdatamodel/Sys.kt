@@ -1,4 +1,4 @@
-package com.example.weatherapp_android.models
+package com.example.weatherapp_android.models.weatherdatamodel
 
 data class Sys(
     val country: String,
